@@ -1,0 +1,9 @@
+selected_features
+session_diversity
+avg_response_time
+std_response_time
+repeat_request_ratio
+packet_size_variance
+connection_duration
+entropy_protocol
+norm_entropy_dst_ip
